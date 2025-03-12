@@ -1,4 +1,6 @@
-🖱️ AI Virtual Mouse
+🖱️ AI Virtual Mouse 
+
+
 🔍 Introduction
 The AI Virtual Mouse is an innovative project that enables hands-free control of a computer's mouse using hand gestures. Built using OpenCV, MediaPipe, and PyAutoGUI, this system tracks hand movements and translates them into mouse actions like movement and clicks.
 
